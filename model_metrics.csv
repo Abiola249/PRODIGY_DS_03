@@ -1,0 +1,11 @@
+Metric,Value
+Accuracy,0.8988
+Precision,0.6011
+Recall,0.4017
+F1 Score,0.4816
+ROC-AUC,0.9009
+Total Customers,9043.0
+Subscribers,1058.0
+Non-Subscribers,7985.0
+Correctly Predicted,8128.0
+Incorrectly Predicted,915.0
